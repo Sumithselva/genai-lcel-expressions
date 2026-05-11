@@ -19,8 +19,8 @@ Design an LCEL pipeline using LangChain with at least two dynamic prompt paramet
 #### STEP 5: Invoke the Chain: Run chain.invoke() with a question to retrieve context-based answers using the LangChain pipeline.
 
 ## PROGRAM:
-<h3> Name: Venkata Mohan N</h3>
-<H3> Reg NO: 212224230298</H3>
+<h3> Name: Sumith M N</h3>
+<H3> Reg NO: 212224230279</H3>
 
 ### Simple Chain
 ```py
