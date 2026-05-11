@@ -96,14 +96,15 @@ inputs.invoke({"question": "what is full form of IPL"})
 
 ## OUTPUT:
 ### Simple Chain:
+<img width="1533" height="183" alt="image" src="https://github.com/user-attachments/assets/2165a560-2242-45cc-a296-05f54ffe7adc" />
 
-<img width="1507" height="1013" alt="image" src="https://github.com/user-attachments/assets/59bee92a-8b6d-4bc9-b32c-11b3a29e27de" />
 
 
 
 ### Complex Chain:
 
-<img width="1233" height="827" alt="image" src="https://github.com/user-attachments/assets/96aa43a2-cc2f-4c2e-99e7-1ebb9f51df53" />
+<img width="1464" height="242" alt="image" src="https://github.com/user-attachments/assets/14139a2f-e459-45ce-ad5f-af6e984bd824" />
+
 
 ## RESULT: 
 The implemented LCEL expression takes at least two prompt parameters, processes them using a model, and formats the output with a parser, demonstrating its effectiveness through real-world examples.
